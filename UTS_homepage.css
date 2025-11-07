@@ -423,7 +423,7 @@ header .navbar {
 /* Products style */
 
 .products-section {
-  background-image: url(/BG1.png);
+  background-color #E68572;
   height: 180vh;
   background-size: cover; 
   background-position: center; 
@@ -625,4 +625,5 @@ header .navbar {
   color: #FFE7E9;
 
 }
+
 
